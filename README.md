@@ -13,7 +13,7 @@ Homework week 4 _ROR
  Parrot GNU/Linux 4.2.2(Debian-like Linux Distribution)  
 __To run the demo app:__  
 - Install Ruby 2.4.4 in the local folder:  
-  rbenv 2.4.4  
+  rbenv install 2.4.4  
   rbenv local 2.4.4  
 - Install Rails:  
   sudo gem install rails -v 5.1.6  
