@@ -1,24 +1,22 @@
 # README
+## Ruby demo app  
+Homework week 4 _ROR  
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### Prerequisites  
+- Git 
+- Ruby 2.4.4
+  install using Rbenv 1.1.1
+- Rails 5.1.6 
+Guides: https://www.railstutorial.org/book/toy_app#sec-deploying_the_toy_app 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### Test the demo app
+// Parrot GNU/Linux 4.2.2(Debian-like Linux Distribution) 
+__To run the demo app:__  
+- Install Ruby 2.4.4 in the local folder:  
+  rbenv 2.4.4  
+  rbenv local 2.4.4  
+- Install Rails:  
+  sudo gem install rails -v 5.1.6  
+- bundle insall  
+- Try: rails server  
+    or bin/rails server  
